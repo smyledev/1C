@@ -38,23 +38,26 @@
 ## Демонстрационная версия реализации: 
 
 ### Расходная накладная
+
 ```no-highlight
 ![Расходная накладная](SalesInvoice.PNG)  
-```no-highlight
+```
 
 ---
 
 ### Остатки товаров
+
 ```no-highlight
 ![Остатки товаров](Remains.PNG)  
-```no-highlight
+```
 
 ---
 
 ### Движения товаров
+
 ```no-highlight
 ![Движения товаров](Movement.PNG)
-```no-highlight
+```
 
 ---
 
