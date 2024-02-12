@@ -1,3 +1,3 @@
 ## Task
 
-![Task](Task.JPEG)
+![Task](Task.jpeg)
