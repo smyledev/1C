@@ -3,5 +3,5 @@
 ![Calculator](Calculator.png)
 
 ## Описание процесса разработки калькулятора
-![Описание разработки](Calculator.pdf)
+[Описание разработки](Calculator.pdf)
 
