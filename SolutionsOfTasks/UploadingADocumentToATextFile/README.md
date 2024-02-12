@@ -1,3 +1,1 @@
-## Task
-
 ![Task](Task.jpeg)
