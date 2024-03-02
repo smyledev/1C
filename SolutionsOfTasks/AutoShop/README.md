@@ -39,24 +39,41 @@
 
 Необходимо обеспечить печать документа отгрузки: в шапке название документа и его номер, в строках – все данные из табличной части документа. При этом для юридических лиц название документа «Торг-12», а для физических – «Товарный чек». В подвале печатной формы предусмотреть место для подписей: со стороны организации подставлять текущего пользователя, со стороны клиента – ФИО контактного лица. Также в подвале необходимо печатать сумму документа прописью (пример, Три тысячи двести сорок два рубля 23 копейки).
 
+---
+
 ## Screens of solution
 
 ![AdditionalUnitsOfMeasurement](README.assets/AdditionalUnitsOfMeasurement.PNG)
 
+---
+
 ![ContactFaces](README.assets/ContactFaces.PNG)
+
+---
 
 ![ContactsWithClients](README.assets/ContactsWithClients.PNG)
 
+---
+
 ![Counterparties](README.assets/Counterparties.PNG)
+
+---
 
 ![CounterpartiesOfContactFace](README.assets/CounterpartiesOfContactFace.PNG)
 
+---
+
 ![PurchaseOfSpareParts](README.assets/PurchaseOfSpareParts.PNG)
+
+---
 
 ![SalesOfProducts](README.assets/SalesOfProducts.PNG)
 
+---
+
 ![PrintableForm](README.assets/PrintableForm.PNG)
 
+---
 
 ## Code of modules
 
@@ -106,6 +123,8 @@
 	КонецЦикла;
 КонецПроцедуры
 ```
+
+---
 
 ### Product sales manager module (print)
 ```
@@ -207,6 +226,8 @@
 	КонецЦикла; 
 КонецПроцедуры
 ```
+
+---
 
 ### Counting sum of documents
 ```
