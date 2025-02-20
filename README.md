@@ -1,6 +1,4 @@
-# My solutions
-
-## Notes
+## Notes 1C
 
 ### Отладка
 
