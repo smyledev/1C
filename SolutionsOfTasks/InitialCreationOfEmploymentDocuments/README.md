@@ -1,23 +1,23 @@
 1. Реквизиты формы
 
-![Props](Props.PNG)
+![Props](Props.png)
 
 
 2. Открытие настройки реквизита – ТабДок (отображение заголовков полей табличного документа)
 
-![HeaderTable](HeaderTable.PNG)
+![HeaderTable](HeaderTable.png)
 
 
 3. Элементы формы
 
-![Form](Form.PNG)
+![Form](Form.png)
 
 
 4. Модуль формы
 
-![ModuleForm](ModuleForm.PNG)
+![ModuleForm](ModuleForm.png)
 
 
 5. Модуль формы с открытой областью создания документов
 
-![ModuleFormExtended](ModuleFormExtended.PNG)
+![ModuleFormExtended](ModuleFormExtended.png)
