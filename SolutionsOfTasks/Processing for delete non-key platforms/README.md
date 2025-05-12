@@ -9,9 +9,9 @@
 
 ## Interface
 
-![FormPlatforms](FormPlatforms.PNG)  
+![FormPlatforms](FormPlatforms.png)  
 
-![FormProcessing](FormProcessing.PNG)  
+![FormProcessing](FormProcessing.png)  
 
 
 ## Code
