@@ -29,6 +29,8 @@
 
 ![InvoiceOutcome](README.assets/InvoiceOutcome.PNG)  
 
+![PrintableForm](README.assets/PrintableForm.PNG)  
+
 ![Sails](README.assets/Sails.PNG)  
 
 ![SailsManagers](README.assets/SailsManagers.PNG)  
