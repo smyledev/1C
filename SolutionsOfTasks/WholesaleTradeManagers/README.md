@@ -36,16 +36,16 @@
 ![SailsManagers](README.assets/SailsManagers.PNG)  
 
 
-#### Что было добавлено еще:
+## Что было добавлено еще:
 
-Изменение стиля и добавление журнала документов для накладных с складом и суммой по документу
+1. Изменение стиля и добавление журнала документов для накладных с складом и суммой по документу
 
 ![DocumentIog](README.assets/DocumentIog.PNG)  
 
 
-Подсчет суммы для регистров для одинаковых товаров документа и отображение регистров в документе
+2. Подсчет суммы для регистров для одинаковых товаров документа и отображение регистров в документе
  
-![SailsDetailed](README.assets/SailsManagers.PNG)  
+![SailsDetailed](README.assets/SailsDetailed.PNG)  
 
 ![Remaining](README.assets/Remaining.PNG)  
 
@@ -54,7 +54,7 @@
 ![SailsManagersRegister](README.assets/SailsManagersRegister.PNG)  
 
 
-Добавлена диаграмма для продаж менеджеров по сумме и формирование отчета продаж сразу при открытии 
+3. Добавлена диаграмма для продаж менеджеров по сумме и формирование отчета продаж сразу при открытии 
 
 ![AddingDiagram](README.assets/AddingDiagram.PNG)  
 
